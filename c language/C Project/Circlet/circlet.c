@@ -1,6 +1,9 @@
 #include<stdio.h>
 
+
 int main(){
+
+//    Q:1   
     int arr[4];
     printf("enter a number");
 
@@ -17,7 +20,7 @@ int main(){
     else{
         printf(" ");
     }
-     }
+    }
    
 
     // Q.2 Write a Program to find the largest element from a given 2D array.
